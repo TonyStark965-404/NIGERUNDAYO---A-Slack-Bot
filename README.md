@@ -2,7 +2,7 @@
 
 # NIGERUNDAYO
 
-**Joseph Joestar for JoJo's Bizarre Adventure, as a Slack Bot**
+**Joseph Joestar from JoJo's Bizarre Adventure, as a Slack Bot**
 
 Built for the [Hack Club Stardance](https://stardance.hackclub.com)
 
