@@ -8,7 +8,7 @@ Built for the [Hack Club Stardance](https://stardance.hackclub.com)
 
 [![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](https://nodejs.org/en)
 [![Slack Bolt](https://custom-icon-badges.demolab.com/badge/Slack-Bolt-4A154B?logo=slack&logoColor=fff)](https://www.npmjs.com/package/@slack/bolt)
-[![Slack Socket Mode](https://custom-icon-badges.demolab.com/badge/Slack-Socket-Mode-4A154B?logo=slack&logoColor=fff)](https://docs.slack.dev/apis/events-api/using-socket-mode/)
+[![Slack Socket Mode](https://custom-icon-badges.demolab.com/badge/Slack-Socket-4A154B?logo=slack&logoColor=fff)](https://docs.slack.dev/apis/events-api/using-socket-mode/)
 
 </div>
 
